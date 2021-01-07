@@ -4,4 +4,5 @@
 # 1. xampp로 아파치 서버 구동
 # 2. mysql에서 luckUser 생성
 # 3. goodTBL 테이블 생성 
-# 4. goodTBL의 Column  UserId, UserName,birthYear,addr,mobile,height,mDATA
+# 4. goodTBL의 Column :
+### UserId, UserName,birthYear,addr,mobile,height,mDATA

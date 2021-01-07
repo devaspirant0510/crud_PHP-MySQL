@@ -1,0 +1,40 @@
+
+<html>
+	<head>
+		<meta http-equiv="context-type" content="text/html" charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<head>
+		<h1> 강력한 쇼핑몰 [회원관리 시스템] CRUD 방식 </h1>
+		<div class = "container">
+			<div class = "item">
+				<a href="select.php">
+					(1) 회원검색 
+				</a>
+			</div>
+			<div class = "item">
+				<a href="insert.php">
+					(2) 신규회원등록 
+				</a>
+			</div>
+		</div><br><br>
+		<form method = "get" action = "update.php">
+			<div>
+				(3) 회원 수정 
+				<input type="text" name = "userID">
+				<button type = "submit">
+					제출
+				</button>
+			</div>
+		</form>
+		<form method = "get" action = "delete.php">
+			<div>
+				(4) 회원 삭제
+				<input type = "text" name = "userID">
+				<button type = "submit">
+					제출
+				</button>
+			</div>
+		</form>
+	</head>
+</html>

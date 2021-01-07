@@ -1,0 +1,15 @@
+.container{
+	display:flex;
+	flex-direction :row;
+}
+.item{
+	padding:10px;
+	background-color : #C1D050;
+	border: 3px solid black;
+	
+}
+
+a{
+	text-decoration: none;
+	color:black;
+}

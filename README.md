@@ -6,3 +6,4 @@
 # 3. goodTBL 테이블 생성 
 # 4. goodTBL의 Column :
 ### UserId, UserName,birthYear,addr,mobile,height,mDATA
+# 5. localhost/main.html 에 접속
